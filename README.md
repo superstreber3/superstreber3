@@ -20,7 +20,3 @@
   <a href="https://www.linkedin.com/in/silas-zahner-5156081b1"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
  <!-- <a href=""><img src="https://img.icons8.com/color/96/000000/discord-logo.png" alt="discord"/></a>-->
 </p>
-
-<p  align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=superstreber3.suüerstreber3" alt="visitor badge"/>
-</p>
